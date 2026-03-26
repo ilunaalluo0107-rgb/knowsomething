@@ -1,0 +1,10 @@
+@charset "utf-8";
+/* CSS Document */
+
+.hidden {
+  display: none; /* Or visibility: hidden; for a different effect */
+}
+
+#myDiv {
+	display: block;
+}
